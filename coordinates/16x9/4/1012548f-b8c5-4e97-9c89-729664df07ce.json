@@ -1,0 +1,117 @@
+{
+    "topic": {
+        "x": 626,
+        "y": 266,
+        "width": 745,
+        "height": 36.16,
+        "fontSize": 32,
+        "fontFamily": "Arial",
+        "numChars": 51
+    },
+    "subtopics": [
+        {
+            "icon": {
+                "x": 90,
+                "y": 716,
+                "width": 80,
+                "height": 80
+            },
+            "title": {
+                "x": 88,
+                "y": 484,
+                "width": 257,
+                "height": 27.119999999999994,
+                "fontSize": 24,
+                "fontFamily": "Georgia",
+                "numChars": 15
+            },
+            "content": {
+                "x": 87,
+                "y": 524,
+                "width": 260,
+                "height": 127.46399999999998,
+                "fontSize": 20,
+                "fontFamily": "Georgia",
+                "numChars": 120
+            }
+        },
+        {
+            "icon": {
+                "x": 578,
+                "y": 718,
+                "width": 80,
+                "height": 80
+            },
+            "title": {
+                "x": 576,
+                "y": 486,
+                "width": 257,
+                "height": 27.119999999999994,
+                "fontSize": 24,
+                "fontFamily": "Georgia",
+                "numChars": 15
+            },
+            "content": {
+                "x": 575,
+                "y": 526,
+                "width": 260,
+                "height": 127.46399999999998,
+                "fontSize": 20,
+                "fontFamily": "Georgia",
+                "numChars": 120
+            }
+        },
+        {
+            "icon": {
+                "x": 1066,
+                "y": 718,
+                "width": 80,
+                "height": 80
+            },
+            "title": {
+                "x": 1064,
+                "y": 486,
+                "width": 257,
+                "height": 27.119999999999994,
+                "fontSize": 24,
+                "fontFamily": "Georgia",
+                "numChars": 15
+            },
+            "content": {
+                "x": 1063,
+                "y": 526,
+                "width": 260,
+                "height": 127.46399999999998,
+                "fontSize": 20,
+                "fontFamily": "Georgia",
+                "numChars": 120
+            }
+        },
+        {
+            "icon": {
+                "x": 1555,
+                "y": 720,
+                "width": 80,
+                "height": 80
+            },
+            "title": {
+                "x": 1553,
+                "y": 488,
+                "width": 257,
+                "height": 27.119999999999994,
+                "fontSize": 24,
+                "fontFamily": "Georgia",
+                "numChars": 15
+            },
+            "content": {
+                "x": 1552,
+                "y": 528,
+                "width": 260,
+                "height": 127.46399999999998,
+                "fontSize": 20,
+                "fontFamily": "Georgia",
+                "numChars": 120
+            }
+        }
+    ]
+}
